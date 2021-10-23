@@ -1,4 +1,4 @@
-# CS4375-Naive-Bayes-Classifier-Assignment-2
+# Naive-Bayes-Classifier
 Class: CS4375 Intro to Machine Learning  
 Assignment: Assignment 2 Part 2  
 Due Date: 9/30/21  
